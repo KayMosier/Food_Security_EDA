@@ -1,6 +1,13 @@
 ## Uses
 This research is an exploratory analysis to understand factors that contribute to food scarcity and undernourishment throughout the world. This research seeks to understand factors that may put individuals at a higher risk of food scarcity using the USDA Household Food Insecurity Report from 2022, as well as 3 sources from the WOrld Bank on the prevelance of undernourishment in the world, prevalence of food insecurity in the world and GDP values for countries over time.
 
+## Research Questions
+1. What major factors effect food insecurity?
+2. Is food insecurity rate effected by education?
+3. Do those with higher education expereince a lower rate of food insecurity?
+4. Are food insecurity statistics and statistics reporting undernourishment alighed?
+5. How have rates of food insecurity changed over time? 
+
 ## Data Sources
 1. USDA Household Food Insecurity Report 2022
    * US Census Bureau. (2022). Current Population Survey, December 2022: Food Security Supplement Machine-readable data file [Dataset; Web].
